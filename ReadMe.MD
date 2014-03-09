@@ -1,0 +1,4 @@
+A collection of recursion examples demonstrating how all those useful standard Python library functions are built. 
+One should not take them for granted. These were constructed using recursion. 
+
+http://en.wikipedia.org/wiki/Recursion
