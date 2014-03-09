@@ -9,6 +9,5 @@ def gcdRecur(a, b):
 	else:
 		return gcdRecur(low, high%low)
 
-print gcdRecur(12, 8)
 
 
