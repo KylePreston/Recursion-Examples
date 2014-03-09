@@ -16,7 +16,7 @@ def recurPowerNew(base, exp):
 
     returns: int or float; base^exp
     '''
-    # Your code here
+    
     if exp > 0 and exp%2 == 0:
         return recurPowerNew(base*base, exp/2)
     elif exp > 0:
