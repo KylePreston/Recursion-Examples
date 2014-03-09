@@ -19,5 +19,3 @@ def gcdIter(a, b):
 				small -= 1
 		else:
 			small -= 1
-
-print gcdIter(100, 69)
