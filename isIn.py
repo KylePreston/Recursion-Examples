@@ -1,5 +1,5 @@
 def isIn(char, aStr):
-	"""Every time you use is in, this is what's being used. """
+	"""Every time you use 'is in', something like this is being called. """
 	
 	if len(aStr) == 0:
 		return False
