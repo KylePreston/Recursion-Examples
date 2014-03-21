@@ -16,3 +16,11 @@ def isPalindrome(s):
 			s[0] == s[-1] and isPal(s[1:-1])
 
 	return isPal(toChars(s))
+	
+	
+# Also, for giggles, you can easily check using splicing
+
+# def isPalindrome(word):
+#	if word == word[::-1]:
+#		return True
+#	return False
